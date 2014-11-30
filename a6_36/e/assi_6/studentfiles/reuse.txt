@@ -1,0 +1,4 @@
+namedisplay(firstn,secn,roll);
+        if(checkreg()==1){
+            panelreg.setVisible(true);
+            }

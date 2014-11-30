@@ -1,0 +1,3 @@
+fname_sname             teacher profile
+fname+sname+course      teacher courses
+fname+sname+_+c            count teacher courses

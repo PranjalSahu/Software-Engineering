@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<math.h>
+my_foot(int i)
+{
+	int j=sqrt(i);
+	return j;
+	}
+int main()
+{
+	int i,k;
+	i=10;
+	k=my_foot(i);
+	printf("%d ",i);
+	return 0;
+}

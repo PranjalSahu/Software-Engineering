@@ -1,0 +1,23 @@
+READ ME FILE FOR ASSGNMENT NO. 2	
+
+
+1. Functionality- (4/5)
+The program contains three functions to satisfy the user needs of implementing draw and intersect functions.Te third function is to avoid the usage of instanceof  operator.
+
+2.Reliability-(4/5)
+Length function has been used to avoid sehmentation fault.Also IO exception has been done to notify any malpractice done.
+
+3.Usability-(5/5)
+The program is very easy to operate.It only takes the number of objects as parameter and executes the entire program.
+Classes name and functions name are all self explanatory.BufferedReader has been used,which will avoid scanning of input again and again from user.
+Since in this program we are taking only one input this  facility is not utilised to its maximum capacity but will be helpful in future programs.
+
+4.Efficiency-(4/5)
+The program takes only the minimu required memory to store the values of  different object.Since we are not using scanner class ,program's efficiency is better.
+BufferedReader has been used,which has higher efficiency as compared to Scanner class's use.
+
+5.Maintainability-(5/5)
+This program can be extended further without much disturbing the present code.I have implemented interface for this purpose so that multiple inheritance can be used in future.
+Also as per need the present objects can extend any class.The only change which will bw needed while increasing the number of objets is to change the argument of random function in  main.
+
+6.portability-(5/5)

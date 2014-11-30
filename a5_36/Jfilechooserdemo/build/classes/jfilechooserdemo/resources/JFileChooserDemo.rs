@@ -1,0 +1,8 @@
+jfilechooserdemo.resources.JFileChooserDemo
+jfilechooserdemo.resources.JFileChooserDemo$2
+jfilechooserdemo.resources.JFileChooserDemo$1
+jfilechooserdemo.resources.JFileChooserDemo$4
+jfilechooserdemo.resources.JFileChooserDemo$3
+jfilechooserdemo.resources.JFileChooserDemo$6
+jfilechooserdemo.resources.JFileChooserDemo$5
+jfilechooserdemo.resources.MyCustomFilter

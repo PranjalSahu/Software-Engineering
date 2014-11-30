@@ -1,0 +1,57 @@
+SRS  FOR ASSIGNMENT NO. 6-
+
+Core Requirements-
+1. Develop an ERP system
+2. Profile page for student, teacher and Administrator.
+3. Procedure to register for current semester for students.
+4. Procedure to register new teachers by administrator.
+5. Procedure to register new courses and their tutors by admin.
+6. Procedure to enable/disable current semester registration by administrator.
+7. Procedure to allot grades to students registered by the corresponding teacher.
+8. Access to grades of students by all administrator, teacher and student.
+
+Detailed Requirements-
+1.	Same login page for teacher, student and administrator.
+2.	Provision of password for student, teacher and administrator login.
+3.	Roll number of each student to be generated automatically at registration.
+Student should be provided his/her roll number at the time of registration.
+4.	Registration number of each teacher to be generated automatically.
+5.	Only registered teachers to be able to take any course.
+6.	Only registered students to be able to take any course.
+7.	Student to be able to register in current semester only if administrator has allowed current semester registration.
+8.	A course can be taken only by one teacher only although one teacher can take several courses.
+9.	Duplicate entries-
+Duplicate student names not to be allowed.
+Duplicate teacher names not to be allowed.
+Duplicate course names not to be allowed.
+In case of duplicate entry, message to be given regarding the problem.
+10.	Administrator Profile-
+Option for enabling/disabling current semester registration.
+Option for viewing any student’s grades.
+Teacher addition procedure.
+Course addition procedure with teacher name.
+        
+11.	Student Profile-
+Name and roll number to be displayed in student profile.
+Student to be able to see the names of courses registered in his profile.
+Student to be able to see his/her grades in courses registered only.
+12.	Teacher Profile-
+Name and registration number of teacher to be displayed in teacher profile.
+Teacher to be able to see and allot the grades to student registered in his/her courses only.
+13.	Only one person should be able to login at a time since it is a desktop application.
+14.	Provision for logout for teacher, student and administrator.
+Once the logout is done the home page/login page- to be displayed for further  operation.
+15.	Proper prompt against each entry options.
+Entry options include any field used to take input.
+
+
+
+Specification-
+1.	Software should be developed in java swing.
+Software to be run as a desktop application.
+2.	No database to be used for all the above mentioned jobs.
+Use of file handling for all data handling.
+Deadline for delivery of software-12/02/2011
+
+
+
